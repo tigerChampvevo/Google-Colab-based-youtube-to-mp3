@@ -1,0 +1,4 @@
+#This will allow you to install all requirements for this project
+!pip install yt-dlp
+!pip install pydub
+!apt-get install ffmpeg
