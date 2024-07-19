@@ -4,7 +4,7 @@ Instructions:
 
 Take the required and run that as the first cell
 
-Take the main.py and run that as a second cell, replace the youtube URL with your desired youtube URL 
+Take the main.py as a second cell, replace the youtube URL with your desired youtube URL 
 
 Run the second cell
 
